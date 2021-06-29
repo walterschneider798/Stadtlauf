@@ -1,0 +1,168 @@
+  1	1	Bruppacher 1
+  4	1	Lutz 2
+  7	1	Achermann
+ 13	1	Amstein
+ 22	1	Feusi 2
+ 28	1	Bosshardt
+ 52	1	Bloch
+ 55	1	Doebeli
+ 58	1	Meier R.
+ 61	1	Ammann
+ 64	1	Stauber
+ 70	1	Bamberger
+ 82	1	Wölfle 2
+ 85	1	Bolz
+ 88	1	Strausak
+ 91	1	Oberholzer
+ 94	1	Iten 2
+103	2	Vogler
+106	2	Bruppacher
+109	2	Enz 1
+112	2	Glogg 2
+115	2	Vogt
+118	2	Achermann
+121	2	Tiefenauer
+133	2	Weber
+136	2	Felzmann 2
+139	2	Hugentobler
+142	2	Fehr
+145	2	Gisler
+163	2	Feusi
+166	2	Temperli
+169	2	Spillmann 1
+172	2	Senft 2
+175	2	Amschwand 2
+178	2	Haupt
+181	2	Merotto
+202	3	Weinmann 1
+205	3	Bloch
+208	3	Lauener
+211	3	Naef
+214	3	Jost
+223	3	Boegli
+226	3	Inderbitzin 3
+229	3	Ammann
+232	3	Liebi
+235	3	Boller 2
+238	3	Camenzind
+241	3	Trottmann 2
+253	3	Togni
+256	3	Zehnder
+259	3	Brechbühl
+262	3	Reolon 2
+265	3	Künzler
+268	3	Oberholzer
+  2	1	Bruppacher 2
+  5	1	Haas
+  8	1	Pfammatter
+ 11	1	Gähwiler
+ 14	1	Arnold
+ 23	1	Temperli
+ 26	1	Arnold
+ 29	1	Merotto
+ 53	1	Frei
+ 56	1	Stauber
+ 62	1	Le Pape
+ 65	1	Donze
+ 71	1	Murer
+ 83	1	Leuch
+ 86	1	Mattli
+ 92	1	Kober
+101	2	Hutter
+104	2	Tobler 1
+107	2	Lutz
+110	2	Enz 2
+113	2	Haas
+116	2	Ender 1
+119	2	Hirzel 1 
+122	2	Pfammatter
+131	2	Gähwiler
+134	2	Bucher
+137	2	Hässig 1
+140	2	Müller
+143	2	Blaser 1
+146	2	Bachmann
+161	2	Stehli
+164	2	Häuselmann
+167	2	Trottmann 1
+170	2	Spillmann 2
+173	2	Stoll
+176	2	Rebsamen
+179	2	Gallmann
+182	2	Bosshardt
+203	3	Weinmann 2
+206	3	Doebeli
+209	3	Loosli 1
+212	3	Heller
+221	3	Winkler
+224	3	Inderbitzin 1
+227	3	Niggli 1
+230	3	Leutenegger 1
+233	3	Blust
+236	3	Eckard
+239	3	Müller
+242	3	Brubpacher 1
+254	3	Clavadetscher
+257	3	Zeller 1
+260	3	Jakob
+263	3	Reolon 3
+269	3	Kober
+  3	1	Lutz 1
+  6	1	Vogt
+ 12	1	Bucher
+ 15	1	Fehr
+ 21	1	Feusi 1
+ 24	1	Stoll
+ 27	1	Spreng
+ 51	1	Zehntner
+ 54	1	Lauener
+ 57	1	Bagattini
+ 63	1	Liebi
+ 66	1	Boller
+ 69	1	Engler
+ 81	1	Wölfle 1
+ 84	1	Zehnder
+ 87	1	Rötschi
+ 90	1	Bernhard
+ 93	1	Iten 1
+102	2	Bochsler
+105	2	Tobler 2
+111	2	Glogg 1
+114	2	Boller
+117	2	Ender 2
+120	2	Hirzel 2
+123	2	Wietlisbach
+132	2	Neuer
+135	2	Felzmann 1
+138	2	Hässig 2
+141	2	Amstein
+144	2	Blaser 2
+162	2	Huber
+165	2	Pongracz
+168	2	Trottmann 2
+171	2	Senft 1
+174	2	Amschwand 1
+177	2	Baumgartner
+180	2	Huber
+183	2	Spreng
+201	3	Kohler
+204	3	Zehntner
+207	3	Frei
+210	3	Loosli 2
+213	3	Bagattini
+216	3	Meier W.
+222	3	Lauffer
+225	3	Inderbitzin 2
+228	3	Niggli 2
+231	3	Leutenegger 2
+234	3	Boller 1
+237	3	Schneebeli
+240	3	Trottmann 1
+243	3	Brubpacher 2
+252	3	Stalder
+255	3	Leuch
+258	3	Zeller 2
+261	3	Reolon 1
+264	3	Ehrismann
+267	3	Wipf
+270	3	Widmer

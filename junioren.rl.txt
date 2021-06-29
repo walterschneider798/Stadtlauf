@@ -1,0 +1,51 @@
+Rang 	 Startnummer 	 Laufzeit 	 Name
+-----
+1	23	00:30:36	Temperli
+2	14	00:31:29	Arnold
+3	15	00:32:14	Fehr
+4	27	00:32:54	Spreng
+5	1	00:32:59	Bruppacher 1
+6	12	00:33:04	Bucher
+7	28	00:33:12	Bosshardt
+8	24	00:33:18	Stoll
+9	26	00:34:38	Arnold
+10	2	00:34:59	Bruppacher 2
+11	5	00:35:48	Haas
+12	6	00:36:41	Vogt
+13	8	00:36:51	Pfammatter
+14	21	00:37:00	Feusi 1
+15	81	00:37:28	Wölfle 1
+16	7	00:38:01	Achermann
+17	69	00:38:21	Engler
+18	4	00:38:36	Lutz 2
+19	13	00:38:39	Amstein
+20	62	00:38:49	Le Pape
+21	29	00:38:52	Merotto
+22	87	00:39:19	Rötschi
+23	51	00:39:22	Zehntner
+24	84	00:39:27	Zehnder
+25	86	00:39:53	Mattli
+26	90	00:40:02	Bernhard
+27	65	00:40:09	Donze
+28	71	00:40:16	Murer
+29	3	00:40:29	Lutz 1
+30	58	00:40:34	Meier R.
+31	92	00:41:10	Kober
+32	93	00:41:20	Iten 1
+33	64	00:41:22	Stauber
+34	85	00:41:25	Bolz
+35	22	00:42:22	Feusi 2
+36	70	00:42:41	Bamberger
+37	94	00:44:03	Iten 2
+38	63	00:44:07	Liebi
+39	91	00:44:47	Oberholzer
+40	61	00:44:54	Ammann
+41	53	00:44:59	Frei
+42	57	00:45:19	Bagattini
+43	55	00:45:36	Doebeli
+44	52	00:45:42	Bloch
+45	88	00:45:48	Strausak
+46	56	00:46:03	Stauber
+47	54	00:47:44	Lauener
+48	66	00:51:11	Boller
+49	83	00:51:52	Leuch

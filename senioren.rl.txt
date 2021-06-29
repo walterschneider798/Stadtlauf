@@ -1,0 +1,62 @@
+Rang 	 Startnummer 	 Laufzeit 	 Name
+-----
+1	176	01:00:15	Rebsamen
+2	165	01:01:44	Pongracz
+3	163	01:01:47	Feusi
+4	174	01:02:09	Amschwand 1
+5	171	01:02:32	Senft 1
+6	183	01:03:08	Spreng
+7	177	01:03:14	Baumgartner
+8	146	01:03:24	Bachmann
+9	167	01:04:13	Trottmann 1
+10	162	01:04:15	Huber
+11	132	01:04:35	Neuer
+12	164	01:05:22	Häuselmann
+13	101	01:05:34	Hutter
+14	133	01:05:57	Weber
+15	140	01:06:05	Müller
+16	169	01:06:09	Spillmann 1
+17	137	01:06:14	Hässig 1
+18	134	01:06:19	Bucher
+19	115	01:07:04	Vogt
+20	123	01:07:06	Wietlisbach
+21	103	01:07:26	Vogler
+22	166	01:08:10	Temperli
+23	145	01:08:18	Gisler
+24	118	01:08:24	Achermann
+25	114	01:08:28	Boller
+26	139	01:08:35	Hugentobler
+27	173	01:08:49	Stoll
+28	143	01:08:54	Blaser 1
+29	141	01:09:03	Amstein
+30	131	01:09:19	Gähwiler
+31	116	01:09:22	Ender 1
+32	170	01:09:28	Spillmann 2
+33	119	01:09:32	Hirzel 1 
+34	175	01:09:34	Amschwand 2
+35	178	01:09:37	Haupt
+36	107	01:10:06	Lutz
+37	104	01:10:08	Tobler 1
+38	142	01:10:21	Fehr
+39	168	01:10:27	Trottmann 2
+40	181	01:10:28	Merotto
+41	180	01:11:19	Huber
+42	122	01:11:20	Pfammatter
+43	113	01:11:22	Haas
+44	109	01:11:28	Enz 1
+45	102	01:11:31	Bochsler
+46	161	01:12:21	Stehli
+47	138	01:12:36	Hässig 2
+48	135	01:12:38	Felzmann 1
+49	111	01:12:51	Glogg 1
+50	121	01:12:53	Tiefenauer
+51	144	01:14:17	Blaser 2
+52	105	01:14:35	Tobler 2
+53	172	01:15:15	Senft 2
+54	179	01:15:30	Gallmann
+55	120	01:18:13	Hirzel 2
+56	182	01:18:23	Bosshardt
+57	110	01:18:31	Enz 2
+58	117	01:19:42	Ender 2
+59	106	01:19:56	Bruppacher
+60	112	01:20:21	Glogg 2
